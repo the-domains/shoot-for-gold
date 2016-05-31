@@ -1,14 +1,14 @@
-layout_spectrum: 0.6478876152541488
-typography_spectrum: 0.3090115343220532
+layout_spectrum: 0.8158615254797041
+typography_spectrum: 0.060306445229798555
 color:
-  brandStrength: 0.5516900480724871
-  lightness: 0.9027943925466388
-  saturation: 0.3879432734102011
-  rhythmicContrast: 0.7967085158452392
+  brandStrength: 0.4827702359762043
+  lightness: 0.13554754783399403
+  saturation: 0.9879518244415522
+  rhythmicContrast: 0.6956751737743616
   brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
 name: Shoot For Gold
